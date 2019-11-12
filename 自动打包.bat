@@ -1,0 +1,1 @@
+pyinstaller -F -i icon4.ico test.py
